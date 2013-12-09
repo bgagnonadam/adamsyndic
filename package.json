@@ -5,11 +5,11 @@
   "dependencies": {
     "express": "2.5.x",
     "jade": "0.27.x"
-  }
+  },
     "engines": {
-    "node": "0.8.x",
+    "node": "0.10.x",
     "npm": "1.1.x"
-  }
+  },
   "main": "web.js",
   "repository": {
     "type": "git",
@@ -18,7 +18,6 @@
   "keywords": [
     "heroku"
   ],
-  "author": "Bruno Gagnon-Adam",
-  "license": "",
+  "author": "Bruno Gagnon-Adam"
 }
 
