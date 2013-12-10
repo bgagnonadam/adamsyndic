@@ -1,0 +1,24 @@
+{
+  "name": "adamsyndic",
+  "version": "0.0.1",
+  "description": "Daniel Adam Syndic web page.",
+  "engine":"node 0.20.x",
+  "dependencies":{
+    "express": ">=1.2.0""dependencies": {
+    "express": "2.5.x",
+    "jade": "0.27.x"
+}
+  "main": "web.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bgagnonadam/adamsyndic.git"
+  },
+  "keywords": [
+    "heroku"
+  ],
+  "author": "Bruno Gagnon-Adam",
+  "license": "",
+}
+{
+ "engines": { "node": "0.10.x" }
+}
