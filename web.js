@@ -11,4 +11,6 @@ app.get('/', function(req, res) {
 });
 
 // spin up server
-app.listen(process.env.PORT || 5000);
+var port = process.env.PORT || 5000;
+app.listen(port);
+console.log("Process started at port : " + port);
