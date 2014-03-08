@@ -23,6 +23,10 @@ body {
   margin-bottom: 30px;
 }
 
+.textLogo {
+    font-size: 18px;
+}
+
 .tab-pane {
   margin-top: 15px;
 }
@@ -125,7 +129,7 @@ footer {
 @media (max-width: 767px) {
 
 .carousel {
-  height: 70%; /* increases the carousel height so it looks good on phones */
+  height: 50%; /* increases the carousel height so it looks good on phones */
 }
 
 }
