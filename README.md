@@ -2,6 +2,6 @@ adamsyndic
 ==========
 
 Daniel Adam Syndic Web Site<br>
-adamsyndic.herokuapp.com<br>
-adamsyndic.com<br>
+http://adamsyndic.com<br>
 http://syndic.bgagnonadam.com
+http://adamsyndic.herokuapp.com<br>
