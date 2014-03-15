@@ -27,8 +27,16 @@ body {
     font-size: 18px;
 }
 
+.logos {
+  width: 35%;
+}
+
 .tab-pane {
   margin-top: 15px;
+}
+
+#contact {
+  padding-top: 20px;
 }
 
 /* Page Sections */
@@ -130,6 +138,10 @@ footer {
 
 .carousel {
   height: 50%; /* increases the carousel height so it looks good on phones */
+}
+
+.logos {
+  width: 100%;
 }
 
 }
