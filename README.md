@@ -1,4 +1,4 @@
-adamsyndic
+Adam Syndic
 ==========
 
 Daniel Adam Syndic Web Site<br>
